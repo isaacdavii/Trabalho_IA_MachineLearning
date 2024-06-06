@@ -18,4 +18,4 @@ Nele fazemos a classificação de apartamentos entre 'novo' ou 'não'.
 
 ## Estrutura do Repositório
 
-Dados da estrutura estão descritas dentro do Colab Notebook.
+Dados da estrutura estão descritos dentro do Colab Notebook.
